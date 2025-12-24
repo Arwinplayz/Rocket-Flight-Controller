@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "lcsc")(type "KiCad")(uri "C:/Users/Arwinplayz/Downloads/Rocket Flight Controller/hardware/lib/lcsc.pretty")(options "")(descr ""))
+)
