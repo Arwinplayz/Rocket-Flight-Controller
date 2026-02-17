@@ -511,10 +511,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
-      "pos_files": "",
+      "plot": "../../production/SimpleFlightController/",
+      "pos_files": "production/",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../CAD/SimpleFlightController.step",
       "svg": "",
       "vrml": ""
     },
